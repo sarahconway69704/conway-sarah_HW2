@@ -29,6 +29,13 @@
 	margin-top: 40px;
 }
 
+#clock p
+{
+	width: 80px;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
 
 .icons:hover
 {
@@ -45,12 +52,26 @@
 	margin-top: 40px;
 }
 
+#camera p
+{
+	width: 80px;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
 #cloud
 {
 	float: left;
 	margin-bottom: 30px;
 	margin-top: 40px;
 	margin-right: 40px;
+}
+
+#cloud p
+{
+	width: 80px;
+	font-size: 12px;
+	margin-top: 20px;
 }
 
 #search
@@ -61,12 +82,26 @@
 	margin-right: 40px;
 }
 
+#search p
+{
+	width: 80px;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
 #hamburger
 {
 	float: left;
 	margin-bottom: 30px;
 	margin-top: 40px;
 	margin-right: 40px;
+}
+
+#hamburger p
+{
+	width: 80px;
+	font-size: 12px;
+	margin-top: 20px;
 }
 
 #email
@@ -77,6 +112,13 @@
 	margin-right: 40px;
 }
 
+#email p
+{
+	width: 80px;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
 #location
 {
 	float: left;
@@ -85,12 +127,26 @@
 	margin-right: 40px;
 }
 
+#location p
+{
+	width: 80px;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
 #messenger
 {
 	float: left;
 	margin-bottom: 30px;
 	margin-top: 40px;
 	margin-right: 40px;
+}
+
+#messenger p
+{
+	width: 80px;
+	font-size: 12px;
+	margin-top: 20px;
 }
 
 #profile
@@ -102,11 +158,25 @@
 
 }
 
+#profile p
+{
+	width: 80px;
+	font-size: 12px;
+	margin-top: 20px;
+}
+
 #sunshine
 {
 	float: left;
 	margin-bottom: 30px;
 	margin-top: 40px;
 	margin-right: 40px;
+}
+
+#sunshine p
+{
+	width: 80px;
+	font-size: 12px;
+	margin-top: 20px;
 }
 
