@@ -1,0 +1,112 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	width: 1200px;
+	display: block;
+	background-color: #fff;
+	margin: 0 auto;
+	padding: 0px;
+}
+
+.icons
+{
+	width: 80px;
+	height: 80px;
+}
+
+#clock
+{
+	float: left;
+	margin-right: 40px;
+	margin-bottom: 30px;
+	margin-top: 40px;
+}
+
+
+.icons:hover
+{
+	filter: brightness(50%);
+}
+
+
+
+#camera
+{
+	float: left;
+	margin-right: 40px;
+	margin-bottom: 30px;
+	margin-top: 40px;
+}
+
+#cloud
+{
+	float: left;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+
+#search
+{
+	float: left;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+
+#hamburger
+{
+	float: left;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+
+#email
+{
+	float: left;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+
+#location
+{
+	float: left;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+
+#messenger
+{
+	float: left;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+
+#profile
+{
+	float: left;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	margin-right: 40px;
+
+}
+
+#sunshine
+{
+	float: left;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	margin-right: 40px;
+}
+
